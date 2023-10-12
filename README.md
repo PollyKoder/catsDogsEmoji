@@ -20,4 +20,4 @@ dogEmojis: ["🐶", "🐕", "🦮", "🐩", "🐾", "🐺", "🦊", "🦝", "�
 - Har fått knappen til å virke slik at cat-emoji'ene vises når man trykker på knappen.
 - Ønsker å bruke litt mer tid på css, slik at det ser bedre ut, men har ikke så mye ideer for øyeblikket.
 - Må også få alt til å være responsivt til flere skjermstørrelser.
-- 
+- add class/id to ul, so it can be styled with css!
