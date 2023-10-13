@@ -35,3 +35,6 @@ dogEmojis: ["🐶", "🐕", "🦮", "🐩", "🐾", "🐺", "🦊", "🦝", "�
 (- Prøvde å få til function hvor emoji'en blir lagt til clip-board når man trykker på den, men da knakk koden.)
 - Decided to put the <ul> element in a <div> so I could make a flex-box, both for the purpose of making css design easier when adding the dog-emojis and to see if I can use it as a max-width in the hopes that it will stack the emojis instead of making the web-page strech for each row of emojis.
 (- Bestemte meg for å putte <ul> i en <div> for å lage en flex-box, både for å forenkle css design når jeg legger til dig-emoji'ene og foå se om jeg kan bruke max-width slik at emojiene samples penere enn at selve siden bare strekker seg for hver rad med emoji'er.)
+- Nope, does not seem to work with max-width. Seems to work ok when I use grid instead of flex, so then the question is do I keep the flex-box div, is it still usefull?
+(-Nei, det virker ikke som at max-width utgjorde den forskjellen jeg håpte på. Virker helt ok med grid i steden for flex, så da blir spørsmålet om jeg fortsatt skal ha flex-box div'en, er det bruk i den?)
+- 

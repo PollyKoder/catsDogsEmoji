@@ -18,10 +18,16 @@ button {
     margin-top: 180px;
 }
 
+.flex {
+    max-width: 700px;
+}
+
 .ul {
-    display: flex;
+    display: grid;
+    grid-template-columns: repeat(10, 1fr);
+    grid-template-rows: max-content;
     justify-content: center;
-    gap: 30px;
+    gap: 15px;
     list-style: none;
     margin-top: 35px;
     font-size: 35px;
@@ -29,6 +35,7 @@ button {
 
 @media (max-width: 426px) {
     .ul {
+        display: flex;
         flex-direction: column;
         text-align: center;
         margin-left: -30px;
