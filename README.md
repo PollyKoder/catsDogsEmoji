@@ -37,4 +37,6 @@ dogEmojis: ["🐶", "🐕", "🦮", "🐩", "🐾", "🐺", "🦊", "🦝", "�
 (- Bestemte meg for å putte <ul> i en <div> for å lage en flex-box, både for å forenkle css design når jeg legger til dig-emoji'ene og foå se om jeg kan bruke max-width slik at emojiene samples penere enn at selve siden bare strekker seg for hver rad med emoji'er.)
 - Nope, does not seem to work with max-width. Seems to work ok when I use grid instead of flex, so then the question is do I keep the flex-box div, is it still usefull?
 (-Nei, det virker ikke som at max-width utgjorde den forskjellen jeg håpte på. Virker helt ok med grid i steden for flex, så da blir spørsmålet om jeg fortsatt skal ha flex-box div'en, er det bruk i den?)
-- 
+- Still feel like I don't know what I'm doing, considering admitting the assignment as it is, perhaps attempt to make the css dryer first, to show the teacher where I'm at. Then spend some time researching and go through codecadamy's JavaScript course for beginner in the hopes that I can pick up on what I currently don't understand. After that I can hopefully return to the assignment, improve and finish it.
+(- Føler fortsatt at jeg ikke forstår hva jeg gjør, vurderer å levere oppgaven slik den er nå, for å vise læreren hvor jeg er i læreprossesen for øyeblikket. Deretter bruke tid på nå studere/undersøke og gå gjennom codecadamy sitt JavaScript kurs for begynnere med håp om å lære meg det jeg forløpig ikkje forstår. Etter det kan jeg forhåpentligvis jobbe videre med oppgaven, forbedre og avlutte den.)
+-  
